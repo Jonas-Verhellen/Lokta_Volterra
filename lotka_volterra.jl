@@ -18,7 +18,7 @@ parameters = [1.5,1.0,3.0,1.0]
 problem = ODEProblem(lotka_volterra, u₀, timespan, parameters)
 
 # solving the ODE problem
-solution = solve(prob)
+solution = solve(problem)
 plot(solution)
 
 # Now the inverse problem: try to find parameters so that the ODE solution is a cosine.
