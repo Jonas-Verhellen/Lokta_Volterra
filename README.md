@@ -1,4 +1,4 @@
-# Lokta_Volterra
+# Neural_Differential_Equations
 
 The Lotka–Volterra equations, which are also known as the predator–prey equations, are a pair of first-order nonlinear differential equations that describe the population dynamics of a biological system in which two species interact as a predator and prey.
 
